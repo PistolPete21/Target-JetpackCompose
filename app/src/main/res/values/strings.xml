@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TargetCaseStudy-KotlinCompose</string>
+    <string name="ship_label">ship</string>
+    <string name="or_label">or</string>
+    <string name="add_to_list">Add to list</string>
+    <string name="add_to_cart">Add to cart</string>
+</resources>
