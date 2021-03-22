@@ -1,4 +1,4 @@
-# Target
+# Target-JetpackCompose
 
 ## Installation
 Clone the repository and import into Android Studio Preview - Artic Fox Canary 11
