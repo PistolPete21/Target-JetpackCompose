@@ -1,6 +1,4 @@
-# TargetCaseStudy-KotlinCompose
-
-![Result](https://media.giphy.com/media/Y4UvIIutNqg68lwjYv/giphy.gif)
+# Target
 
 ## Installation
 Clone the repository and import into Android Studio Preview - Artic Fox Canary 11
